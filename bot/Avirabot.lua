@@ -260,7 +260,11 @@ function create_config( )
     "webshot",
     "voice",
     "XY",
-    "On_Off"
+    "On_Off",
+    "ZAC",
+    "Dictionary",
+    "Sendall_GP",
+    "GPS"
     },
     sudo_users = {234169062},--Sudo users
     moderation = {data = 'data/moderation.json'},
