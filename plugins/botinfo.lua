@@ -2,7 +2,7 @@ do
     function run(msg, matches)
         
   local text = [[
-🚀 Avira is best bot
+🚀 saint croos bot is best bot
 
 a Persian bot for Iranian 🇮🇷
 
