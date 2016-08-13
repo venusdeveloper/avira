@@ -6,9 +6,9 @@ do
 
 a Persian bot for Iranian 🇮🇷
 
-Sudo : @mohammadarak
+Sudo : @mr_k1ng
 
-Bot id : https://telegram.me/avirabot
+Bot id : https://telegram.me/gurden_robot
 
 http://s7.picofile.com/file/8246000950/Avira.jpg
 ]]
