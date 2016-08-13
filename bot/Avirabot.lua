@@ -272,7 +272,7 @@ function create_config( )
     help_text_realm = [[ ]],
     help_text = [[ ]],
 	help_text_super =[[
-🚀 Avira SuperGroup Commands:
+🚀 saint croos bot SuperGroup Commands:
 
 !owner
 دریافت آیدی مدیر اصلی گروه
