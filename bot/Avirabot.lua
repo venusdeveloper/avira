@@ -258,7 +258,9 @@ function create_config( )
     "weather",
     "welcome",
     "webshot",
-    "voice"
+    "voice",
+    "XY",
+    "On_Off"
     },
     sudo_users = {234169062},--Sudo users
     moderation = {data = 'data/moderation.json'},
