@@ -266,7 +266,7 @@ function create_config( )
     "Sendall_GP",
     "GPS"
     },
-    sudo_users = {234169062},--Sudo users
+    sudo_users = {91112540},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
